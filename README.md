@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tunahankutlu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahan-kutlu-237a351b4/) 
-<div style="margin-top:20px"></div>
+
 ![1690548047583](https://github.com/user-attachments/assets/7cf60020-405f-4d4e-b39c-aaed763aacbf)
 
 # 💻 Tech Stack:
