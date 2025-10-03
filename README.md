@@ -34,8 +34,7 @@
 
 ### ✍️ Testin Önemi Üzerine
 
-![Yazılım Test Uzmanı]([https://boenstitu.com/view/images/blog/onecikan/yazilim-test-uzmani.jpg](https://miro.medium.com/v2/resize:fit:1400/1*1DvCiUxLXQjiLEIBJl6IxA.jpeg))
-
+![Yazılım Test Uzmanı](https://miro.medium.com/v2/resize:fit:1400/1*1DvCiUxLXQjiLEIBJl6IxA.jpeg)
 
 
 ### 🔝 En Çok Katkı Sağlanan Depolar
