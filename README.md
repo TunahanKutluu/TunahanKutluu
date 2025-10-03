@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=TunahanKutluu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Geliştirici Sözü (Rastgele)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![QA Test Quote](https://i.imgur.com/gdVvU9d.png)
 
 ### 🔝 En Çok Katkı Sağlanan Depolar
 ![](https://github-contributor-stats.vercel.app/api?username=TunahanKutluu&limit=5&theme=dark&combine_all_yearly_contributions=true)
