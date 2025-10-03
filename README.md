@@ -34,7 +34,8 @@
 
 ### ✍️ Testin Önemi Üzerine
 
-![Test Sözüm](https://link-to-your-uploaded-image.png)
+![](https://i.imgur.com/2tZZv2Z.png)
+
 
 
 ### 🔝 En Çok Katkı Sağlanan Depolar
