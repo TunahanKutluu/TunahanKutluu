@@ -29,10 +29,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TunahanKutluu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanKutluu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Başarıları
 ![](https://github-profile-trophy.vercel.app/?username=TunahanKutluu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Testin Önemi Üzerine
 
 ![Yazılım Test Uzmanı](https://miro.medium.com/v2/resize:fit:1400/1*1DvCiUxLXQjiLEIBJl6IxA.jpeg)
 
