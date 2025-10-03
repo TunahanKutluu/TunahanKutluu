@@ -1,4 +1,3 @@
-# 💫 About Me:
 4.5+ yıldır Front-End Developer olarak çalıştım, şu anda Cypress ile test otomasyonuna odaklanan bir QA Engineer olarak kariyerime devam ediyorum. Kod kalitesi<br>
 
 
