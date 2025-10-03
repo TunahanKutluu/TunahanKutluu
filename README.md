@@ -1,4 +1,4 @@
-4.5+ yıldır Front-End Developer olarak çalıştım, şu anda Cypress ile test otomasyonuna odaklanan bir QA Engineer olarak kariyerime devam ediyorum. Kod kalitesi, test süreçleri ve kullanıcı deneyimi odaklı çalışmayı seviyorum. 🚀
+4.5+ yıldır Front-End Developer olarak çalıştım, şu anda Cypress ile test otomasyonuna odaklanan bir QA Engineer olarak kariyerime devam ediyorum. Kod kalitesi, test süreçleri ve kullanıcı deneyimi odaklı çalışmayı seviyorum. 
 
 ## 🌐 Sosyal Medya:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tunahankutlu) 
