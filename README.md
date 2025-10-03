@@ -3,6 +3,9 @@ Test otomasyonu alanında çalışmak, sadece kodun doğru çalıştığını do
 Front-End tecrübem, kullanıcı odaklı düşünme becerilerimi güçlendirirken, test otomasyonunda ise sistematik yaklaşım, detaylara dikkat ve süreci iyileştirme yeteneklerimi pekiştirdi. Bu iki alanı birleştirerek, yazılım kalitesini en üst seviyeye taşımak için çalışıyorum.
 Kariyerimdeki bu geçiş, benim için sadece yeni bir uzmanlık alanı değil; aynı zamanda sorumluluk ve profesyonellik gerektiren kritik bir misyonun da başlangıcıdır. Çünkü yazılım dünyasında atılan her adım, kullanıcıların güvenliği ve deneyimi üzerinde doğrudan etkiye sahiptir. Bu bilinçle, hem kod kalitesini artırmak hem de test süreçlerini sürekli geliştirmek için tutku ve disiplinle çalışmaya devam ediyorum.
 
+## 👨‍💻 QA & Front-End Tutkum  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF2bzEzZXFrcDZvNzN6c3U1aWFmMzhjdzJpdDg3MHR3NnRtOGFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR1jRH6006N8T3S/giphy.gif" width="100%" />
+
 
 ## 🌐 Sosyal Medya:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tunahankutlu) 
