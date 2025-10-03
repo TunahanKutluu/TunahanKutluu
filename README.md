@@ -2,6 +2,7 @@
 Test otomasyonu alanında çalışmak, sadece kodun doğru çalıştığını doğrulamak değil; aynı zamanda milyonlarca kullanıcının hayatını etkileyebilecek hataları önlemek, veri güvenliğini sağlamak ve kullanıcı sağlığını riske atabilecek potansiyel sorunları ortadan kaldırmak anlamına geliyor. Bu yüzden QA mühendisi olarak üstlendiğim görev, yazılımın sadece işlevsel değil, aynı zamanda güvenilir ve sürdürülebilir olmasını sağlamak üzerine kurulu.
 Front-End tecrübem, kullanıcı odaklı düşünme becerilerimi güçlendirirken, test otomasyonunda ise sistematik yaklaşım, detaylara dikkat ve süreci iyileştirme yeteneklerimi pekiştirdi. Bu iki alanı birleştirerek, yazılım kalitesini en üst seviyeye taşımak için çalışıyorum.
 Kariyerimdeki bu geçiş, benim için sadece yeni bir uzmanlık alanı değil; aynı zamanda sorumluluk ve profesyonellik gerektiren kritik bir misyonun da başlangıcıdır. Çünkü yazılım dünyasında atılan her adım, kullanıcıların güvenliği ve deneyimi üzerinde doğrudan etkiye sahiptir. Bu bilinçle, hem kod kalitesini artırmak hem de test süreçlerini sürekli geliştirmek için tutku ve disiplinle çalışmaya devam ediyorum.
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN4bHEwZXhhYjZ3bDBsMXVmdGF6ZnU0cGc1anBqd3BxbTdmcWVxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
 
 ## 🌐 Sosyal Medya:
