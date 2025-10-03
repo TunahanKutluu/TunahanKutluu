@@ -34,7 +34,7 @@
 
 ### ✍️ Testin Önemi Üzerine
 
-![](https://i.imgur.com/2tZZv2Z.png)
+![Yazılım Test Uzmanı](https://boenstitu.com/view/images/blog/onecikan/yazilim-test-uzmani.jpg)
 
 
 
