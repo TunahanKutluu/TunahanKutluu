@@ -9,7 +9,7 @@
 # 💻 Teknoloji ve Test Yetenekleri:
 
 ## 🧪 Test Araçları & Framework'leri
-![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
